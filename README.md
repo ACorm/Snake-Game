@@ -1,2 +1,2 @@
 # Snake-Game
-Classic project. Snake game
+It's Snake that all
